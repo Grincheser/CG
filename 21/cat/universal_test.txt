@@ -1,0 +1,6 @@
+Line 1: Start
+
+
+
+Line 5: Text	with	tabs
+Line 6: Chars  and 
