@@ -1,0 +1,7 @@
+Hello World
+s21_grep project is awesome
+This is a Test line with some text.
+apple
+APPLE
+banana
+grep is a utility
